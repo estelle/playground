@@ -19,15 +19,15 @@ const Tutorial = () => (
     <h2>Firefox DevTools</h2>
 
     <p>
-      Designers and developers are rapidly falling in love with CSS Grid Layout.
-      That’s why Mozilla has been working hard on the Firefox Developer Tools
-      Layout panel, adding powerful upgrades to the CSS Grid Inspector and Box
+      Designers and developers are in love with CSS Grid Layout.
+      That’s why Mozilla has worked hard on the Firefox Developer Tools
+      Layout panel, adding powerful tools to the CSS Grid Inspector and Box
       Model.
     </p>
 
     <h3 className="mt3">CSS Grid Overlay</h3>
     <p>
-      The new CSS Layout panel lists all the available CSS Grid containers on
+      The CSS Layout panel lists all the available CSS Grid containers on
       the page and includes an overlay to help you visualize the grid itself.
       You can customize the information displayed on the overlay, including grid
       line numbers and dimensions.
@@ -36,7 +36,7 @@ const Tutorial = () => (
 
     <h3>Interactive grid</h3>
     <p>
-      There is a new interactive grid outline in the sidebar. Mouse over the
+      There is an interactive grid outline in the sidebar. Mouse over the
       outline to highlight parts of the grid on the pages and display size,
       area, and position information.
     </p>
@@ -59,9 +59,7 @@ const Tutorial = () => (
     <img style={imgStyle} src={gif4} alt="grid transition" />
 
     <p className="mb4">
-      These features and improvements are currently available in Firefox Nightly
-      and Firefox Developer edition. It is recommended that you download and
-      install one of these browsers before continuing. These features are only
+      These features are
       available in Firefox and will help you as you learn about the ins and outs
       of CSS Grid Layout.
     </p>
